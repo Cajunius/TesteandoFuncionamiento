@@ -1,0 +1,14 @@
+{
+  "name": "primer_repositorio",
+  "version": "1.0.0",
+  "description": "Primer Repostiorio. Creado para probar como sirve esto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cajunius",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
